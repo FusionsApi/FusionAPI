@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2025-02-24T08:31:12.954Z",
+    "method": "GET",
+    "url": "/",
+    "status": 200,
+    "duration": "344ms",
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2025-02-24T08:31:14.881Z",
+    "method": "GET",
+    "url": "/favicon.ico",
+    "status": 404,
+    "duration": "36ms",
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2025-02-24T08:31:16.055Z",
+    "method": "GET",
+    "url": "/docs",
+    "status": 301,
+    "duration": "21ms",
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2025-02-24T08:31:16.109Z",
+    "method": "GET",
+    "url": "/docs/",
+    "status": 200,
+    "duration": "28ms",
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2025-02-24T08:31:16.198Z",
+    "method": "GET",
+    "url": "/dist/css/final.css",
+    "status": 200,
+    "duration": "30ms",
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2025-02-24T08:31:16.264Z",
+    "method": "GET",
+    "url": "/docs/.../dist/js/script.js",
+    "status": 404,
+    "duration": "20ms",
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2025-02-24T08:31:16.469Z",
+    "method": "GET",
+    "url": "/docs/.../theme-monokai.css",
+    "status": 404,
+    "duration": "22ms",
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2025-02-24T08:31:17.349Z",
+    "method": "GET",
+    "url": "/docs/docs.json",
+    "status": 200,
+    "duration": "20ms",
+    "ip": "::1"
+  }
+]

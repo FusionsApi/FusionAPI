@@ -1,0 +1,12 @@
+{
+    "api_keys": [
+        {
+            "key": "devop",
+            "limit": 999999999
+        },
+        {
+            "key": "happy",
+            "limit": 9999999
+        }
+    ]
+}
